@@ -27,9 +27,7 @@ namespace BookCatalog.Services
                 if (string.IsNullOrWhiteSpace(json))
                     return new List<Book>();
 
-                var books = JsonSerializer.Deserialize<List<Book>>(json);
-
-                return books ?? new List<Book>();
+                return JsonSerializer.Deserialize<List<Book>>(json) ?? new List<Book>();
             }
             catch (Exception ex)
             {
@@ -38,15 +36,12 @@ namespace BookCatalog.Services
             }
         }
 
-        public void SaveBooks(List<Book> newBooks)
+        public void SaveBooks(List<Book> booksToSave)
         {
             try
             {
-                var existingBooks = LoadBooks();
 
-                existingBooks.AddRange(newBooks);
-
-                string updatedJson = JsonSerializer.Serialize(existingBooks, new JsonSerializerOptions { WriteIndented = true });
+                string updatedJson = JsonSerializer.Serialize(booksToSave, new JsonSerializerOptions { WriteIndented = true });
                 File.WriteAllText(_filePath, updatedJson);
 
                 Console.WriteLine($"Könyvek sikeresen mentve!");
