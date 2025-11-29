@@ -26,14 +26,14 @@ namespace GameStore.Services
 
             if (exist)
             {
-                Console.WriteLine($"Ez a könyv már szerepel a katalógusban: {title}");
+                Console.WriteLine($"Ez a játék már szerepel a katalógusban: {title}");
             }
             else
             {
                 var newGame = new Game(title, developer, year, price);
                 _games.Add(newGame);
                 _repository.SaveGames(_games);
-                Console.WriteLine($"Könyv sikeresen hozzáadva: {newGame.Title}");
+                Console.WriteLine($"Játék sikeresen hozzáadva: {newGame.Title}");
 
             }
         }

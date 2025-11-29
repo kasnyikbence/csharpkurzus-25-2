@@ -47,24 +47,24 @@ namespace GameStore.UI
             var game = _statisticsService.GetCheapestGame();
             if (game != null)
             {
-                Console.WriteLine($"\nA legolcsóbb könyv: {game.Title} ({game.Developer}, {game.Year}, {game.Price})");
+                Console.WriteLine($"\nA legolcsóbb játék: {game.Title} ({game.Developer}, {game.Year}, {game.Price})");
             }
             else
             {
-                Console.WriteLine("Üres a könyvkatalógus");
+                Console.WriteLine("Üres a game store");
             }
         }
 
         private void DisplayTotalGameCount()
         {
             int gameCount = _statisticsService.GetTotalGameCount();
-            Console.WriteLine($"Az összes játék a katalógusban: {gameCount}");
+            Console.WriteLine($"Az összes játék a store-ban: {gameCount}");
         }
 
         private void DisplayAvaragePrice()
         {
             double avgPrice = _statisticsService.GetAvaragePrice();
-            Console.WriteLine($"Az összes könyv átlagára: {avgPrice:N2}");
+            Console.WriteLine($"Az összes játék átlagára: {avgPrice:N2}");
         }
 
         private void DisplayDevelopersByGameCount()
