@@ -1,0 +1,15 @@
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\bin\Debug\net9.0\GameStore.exe
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\bin\Debug\net9.0\GameStore.deps.json
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\bin\Debug\net9.0\GameStore.runtimeconfig.json
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\bin\Debug\net9.0\GameStore.dll
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\bin\Debug\net9.0\GameStore.pdb
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.AssemblyInfoInputs.cache
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.AssemblyInfo.cs
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.csproj.CoreCompileInputs.cache
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.sourcelink.json
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.dll
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\refint\GameStore.dll
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.pdb
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\GameStore.genruntimeconfig.cache
+F:\Egyetem\VII.félév\AlkfejlC#alapokon\Projekt\csharpkurzus-25-2\GameStore\GameStore\obj\Debug\net9.0\ref\GameStore.dll

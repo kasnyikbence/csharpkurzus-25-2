@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "The Witcher 3: Wild Hunt",
+    "Developer": "CD Projekt Red",
+    "Year": 2015,
+    "Price": 8990
+  },
+  {
+    "Title": "Cyberpunk 2077",
+    "Developer": "CD Projekt Red",
+    "Year": 2020,
+    "Price": 14990
+  },
+  {
+    "Title": "The Witcher 2",
+    "Developer": "CD Projekt Red",
+    "Year": 2011,
+    "Price": 2990
+  },
+  {
+    "Title": "Grand Theft Auto V",
+    "Developer": "Rockstar Games",
+    "Year": 2013,
+    "Price": 9990
+  },
+  {
+    "Title": "Red Dead Redemption 2",
+    "Developer": "Rockstar Games",
+    "Year": 2018,
+    "Price": 18990
+  },
+  {
+    "Title": "Half-Life 2",
+    "Developer": "Valve",
+    "Year": 2004,
+    "Price": 3500
+  },
+  {
+    "Title": "Portal 2",
+    "Developer": "Valve",
+    "Year": 2011,
+    "Price": 3500
+  },
+  {
+    "Title": "Counter-Strike 2",
+    "Developer": "Valve",
+    "Year": 2023,
+    "Price": 0
+  },
+  {
+    "Title": "Minecraft",
+    "Developer": "Mojang",
+    "Year": 2011,
+    "Price": 8500
+  },
+  {
+    "Title": "Elden Ring",
+    "Developer": "FromSoftware",
+    "Year": 2022,
+    "Price": 16990
+  }
+]
